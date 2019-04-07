@@ -1,4 +1,4 @@
-# electron-vue
+# electron-vue-ts
 
 ## Project setup
 ```
