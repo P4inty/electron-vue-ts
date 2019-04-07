@@ -25,5 +25,15 @@ npm run test
 npm run lint
 ```
 
+### Compile ts-folder files
+```
+npm run tsc-app
+```
+
+### Compiles project and start electron
+```
+npm run start
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).

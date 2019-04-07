@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "strict": true,
+      "module": "commonjs",
+      "moduleResolution": "node",
+      "baseUrl": ".",
+      "outDir": "../../dist/js"
+    },
+    "include": [
+        "*.ts"
+    ]
+  }
